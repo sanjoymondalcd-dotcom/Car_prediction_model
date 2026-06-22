@@ -4,6 +4,7 @@ This project uses Linear Regression to predict car prices based on training data
 
 ## Files
 
+- `first_ml_model(car_prediction).py` - Python script for training and testing the Linear Regression model
 - `Linear-Regression-_Training-Data_-.csv` - Training dataset
 - `Linear-Regression-Python-_Test-data_.csv` - Test dataset
 - `Car Prediction Model.pdf` - Project documentation and analysis
@@ -30,3 +31,5 @@ The model is trained using historical car data and predicts car prices using a L
 ## Author
 
 Sanjoy Mondal
+
+
